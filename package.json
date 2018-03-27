@@ -1,0 +1,29 @@
+{
+  "name": "codeKatas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmisNomis/codeKatas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmisNomis/codeKatas/issues"
+  },
+  "homepage": "https://github.com/OmisNomis/codeKatas#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  },
+  "dependencies": {
+    "app-root-path": "^2.0.1"
+  }
+}
