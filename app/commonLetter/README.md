@@ -4,7 +4,7 @@ If such letters are two or more, choose the one that appears in the string( earl
 
 For example:
 
-```
+```js
 ('my mom loves me as never did', 't') => 'ty tot loves te as never did'
 ('real talk bro', 'n') => 'neal talk bno'
 ('great job go ahead', 'k') => 'grekt job go khekd'
