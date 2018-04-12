@@ -20,7 +20,7 @@ describe('Basic Tests', () => {
   it('Should accept single call', () => {
     assert.equal(add(1), 1);
   });
-  it.only('Should be able to store the result and reuse', () => {
+  it('Should be able to store the result and reuse', () => {
     const addTwo = add(2);
     assert.equal(addTwo, 2);
     assert.equal(addTwo(3), 5);
